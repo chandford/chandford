@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-Currently on the Northcoders DE bootcamp 🌱 
+Northcoders data engineering grad 🌱 
+Dev Ops Apprentice, currently on Makers bootcamp 🚀
